@@ -1,4 +1,4 @@
 [1] Why do we need a 'return 0' ?
-    * In C programs the main function is of type int and therefore it should return an integer value.
-    * The return value of the main function is considered the "Exit Status" of the application. 
-    * On most operating systems returning 0 is a success status like saying "The program worked fine".
+    - In C programs the main function is of type int and therefore it should return an integer value.
+    - The return value of the main function is considered the "Exit Status" of the application. 
+    - On most operating systems returning 0 is a success status like saying "The program worked fine".
