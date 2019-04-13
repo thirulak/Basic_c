@@ -7,3 +7,5 @@ int main()
     printf("%d%c\n",ch,ch);
  return 0;
 }
+//Character printed in %d gives ASCII value of that character. And in %c it gives character value.
+
