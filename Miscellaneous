@@ -2,3 +2,8 @@
     - In C programs the main function is of type int and therefore it should return an integer value.
     - The return value of the main function is considered the "Exit Status" of the application. 
     - On most operating systems returning 0 is a success status like saying "The program worked fine".
+ 
+[2] What is the difference between logical and Bitwise AND operator?
+    - The logical and operator ‘&&’ expects its operands to be boolean expressions (either 1 or 0) and returns a boolean value.
+    - The bitwise and operator ‘&’ works on Integral (short, int, unsigned, char, bool, unsigned char, long) values 
+      and return Integral value.
