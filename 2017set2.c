@@ -40,3 +40,16 @@ void printxy (int x, int y)   {
 }
 //the while loop terminates after making done=1 it happens after arranging all the array values in descending order
 //and so it prints the ouptput as array[3]
+
+[3] #include<stdio.h>
+int main ()  {
+         int m = 10; //m=10
+         int n,n1; 
+         n = ++m; //n=11,m=11
+         n1 = m++; //n1=11,m=12
+         n--;  //n=10   
+         --n1; //n1=10
+         n-= n1; //n=10-10=0
+         printf("%d", n); 
+         return 0;
+}
