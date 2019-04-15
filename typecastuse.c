@@ -7,3 +7,4 @@ int main ()  {
   return 0;
 }
 //Here typecasting is done , and so the value of alphabets are changed to their ASCII values 
+//the output will print the stringlength 
