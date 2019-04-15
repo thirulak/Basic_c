@@ -7,3 +7,7 @@
     - The logical and operator ‘&&’ expects its operands to be boolean expressions (either 1 or 0) and returns a boolean value.
     - The bitwise and operator ‘&’ works on Integral (short, int, unsigned, char, bool, unsigned char, long) values 
       and return Integral value.
+
+[3] why it is needed to find the ascii value of characters in C?
+ 
+ https://qph2.c7.quoracdn.net/main-qimg-581cad94c0adf8346fa7668447796278 
