@@ -9,5 +9,9 @@
       and return Integral value.
 
 [3] why it is needed to find the ascii value of characters in C?
+    - Character printed in %d gives ASCII value of that character(Typecasted).
+    - Range of Alphabet values in ASCII: A-Z(Uppercase) IS 65-90 
+    - Range of Lowercase alphabet value in ASCII : a-z is 97-122
+    
  
   
