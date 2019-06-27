@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+  enum Nptel {July = 0, Aug , Dec};
+  enum Nptel course = Dec;
+    if(course == 0)
+        printf("course is in July");
+    else if(course == 1)
+        printf("course is in Aug");
+    else if(course == 2)
+        printf("course is in Dec");
+ }
+ 
+ Output: course is in Dec
